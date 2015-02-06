@@ -1,0 +1,5 @@
+#ignore files created by TeXWorks:
+*.aux
+*.log
+*.pdf
+*.synctex.gz
